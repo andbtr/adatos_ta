@@ -1,5 +1,7 @@
 # adatos_ta
 
+#### Crear carpeta "data" en la raiz del proyecto
+
 ### Estructura General
 
 - **Datos Crudos**: Archivos originales proporcionados por fuentes externas, generalmente en formato Excel (.xlsx).
